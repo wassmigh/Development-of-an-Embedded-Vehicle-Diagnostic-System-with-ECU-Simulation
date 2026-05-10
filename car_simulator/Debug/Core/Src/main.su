@@ -1,0 +1,13 @@
+../Core/Src/main.c:71:1:__io_putchar	16	static
+../Core/Src/main.c:88:13:sim_update_rpm	24	static
+../Core/Src/main.c:123:13:sim_update_temp	4	static
+../Core/Src/main.c:130:13:sim_update_fuel	4	static
+../Core/Src/main.c:136:13:sim_update_battery	4	static
+../Core/Src/main.c:155:13:ecu_send_response	32	static
+../Core/Src/main.c:274:13:ecu_send_dtc_response	8	static
+../Core/Src/main.c:302:5:main	64	static
+../Core/Src/main.c:416:6:SystemClock_Config	88	static
+../Core/Src/main.c:454:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:477:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:496:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:520:6:Error_Handler	4	static,ignoring_inline_asm
