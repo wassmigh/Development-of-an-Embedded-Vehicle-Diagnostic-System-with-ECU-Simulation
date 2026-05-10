@@ -85,9 +85,7 @@ OBD2/
 ├── can_sniffer/             # STM32 Firmware for the OBD-II Sniffer node
 ├── car_simulator/           # STM32 Firmware for the realistic ECU Simulator
 ├── rpi_obd_firebase_server.py # Raspberry Pi Python Gateway to Firebase
-├── serviceAccountKey.json   # (Ignored) Firebase Admin SDK private key
-├── rapport_DiagSmarter.tex  # LaTeX source code for the academic report
-└── Architecture du DiagSmarter/ # Architecture diagrams and wiring schematics
+└──  serviceAccountKey.json   # (Ignored) Firebase Admin SDK private key
 ```
 
 ---
