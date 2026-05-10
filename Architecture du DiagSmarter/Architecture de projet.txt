@@ -1,7 +1,0 @@
-STM32 (Nœud d'acquisition) : Elle récupère les données via le MCP2515.
-
-Raspberry Pi 5 (Passerelle IA) : Elle reçoit les données de la STM32 (via UART ou USB), fait tourner le modèle Machine Learning, et envoie les résultats vers Firebase.
-
-Firebase (Cloud) : Sert de base de données temps réel (Firestore ou Realtime Database) et gère l'authentification.
-
-Flutter (Dashboard) : Une application mobile qui écoute les changements sur Firebase pour mettre à jour les jauges.
