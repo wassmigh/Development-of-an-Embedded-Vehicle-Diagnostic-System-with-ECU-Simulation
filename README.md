@@ -50,10 +50,10 @@ The system is divided into four main interconnected components:
 Here are some previews of the DiagSmarter mobile application dashboard:
 
 <div align="center">
-  <img src="dashboard1.jpeg" width="22%" alt="Dashboard" />
-  <img src="livedata1.jpeg" width="22%" alt="Live Data" />
-  <img src="health1.jpeg" width="22%" alt="Vehicle Health" />
-  <img src="history1.jpeg" width="22%" alt="History" />
+  <img src="screenshots/dashboard1.jpeg" width="22%" />
+  <img src="screenshots/livedata1.jpeg" width="22%" />
+  <img src="screenshots/health1.jpeg" width="22%" />
+  <img src="screenshots/history1.jpeg" width="22%" />
 </div>
 
 ---
