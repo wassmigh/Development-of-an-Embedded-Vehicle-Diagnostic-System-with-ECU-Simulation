@@ -85,6 +85,7 @@ OBD2/
 ├── can_sniffer/             # STM32 Firmware for the OBD-II Sniffer node
 ├── car_simulator/           # STM32 Firmware for the realistic ECU Simulator
 ├── rpi_obd_firebase_server.py # Raspberry Pi Python Gateway to Firebase
+├── Flutter_App              # Dart Code for Mobile App
 └──  serviceAccountKey.json   # (Ignored) Firebase Admin SDK private key
 ```
 
