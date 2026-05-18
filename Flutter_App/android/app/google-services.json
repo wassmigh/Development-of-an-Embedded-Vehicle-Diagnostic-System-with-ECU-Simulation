@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134207435446",
+    "project_id": "smartcardiag",
+    "storage_bucket": "smartcardiag.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134207435446:android:7f823df71dea4f47cfac17",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_diag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltff1M9_KgdnyBdc_HYeliYJVtqB_pxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
