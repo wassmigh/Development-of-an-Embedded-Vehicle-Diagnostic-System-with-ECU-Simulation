@@ -20,7 +20,7 @@ This project was developed as an End-of-Year Project (PFA) at ISIMG (Higher Inst
 
 ## 🏗️ Architecture
 
-![Global System Architecture](./screenshots/fddbd328-b95b-46e9-a4b6-4c9733e01238.jpeg)
+![Global System Architecture](./screenshots/architecture_diagsmarter.jpeg)
 
 The system is divided into four main interconnected components:
 
