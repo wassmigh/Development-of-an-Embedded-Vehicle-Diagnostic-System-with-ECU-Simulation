@@ -20,6 +20,8 @@ This project was developed as an End-of-Year Project (PFA) at ISIMG (Higher Inst
 
 ## 🏗️ Architecture
 
+![Global System Architecture](./screenshots/fddbd328-b95b-46e9-a4b6-4c9733e01238.jpeg)
+
 The system is divided into four main interconnected components:
 
 1. **CAN Sniffer Node (STM32 + MCP2515)**  
@@ -83,9 +85,7 @@ OBD2/
 ├── can_sniffer/             # STM32 Firmware for the OBD-II Sniffer node
 ├── car_simulator/           # STM32 Firmware for the realistic ECU Simulator
 ├── rpi_obd_firebase_server.py # Raspberry Pi Python Gateway to Firebase
-├── serviceAccountKey.json   # (Ignored) Firebase Admin SDK private key
-├── rapport_DiagSmarter.tex  # LaTeX source code for the academic report
-└── Architecture du DiagSmarter/ # Architecture diagrams and wiring schematics
+└──  serviceAccountKey.json   # (Ignored) Firebase Admin SDK private key
 ```
 
 ---
